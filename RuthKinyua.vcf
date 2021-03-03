@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Kinyua;Ruth;;;
+FN: Kinyua  Ruth 
+ORG:Integrale Seers Advisory;
+TITLE:Lead
+EMAIL;type=INTERNET;type=WORK;type=pref:ruth@integraleseers.com
+TEL;type=WORK;type=VOICE:+254 705 815 274
+item1.ADR;type=WORK;type=pref:;;Nairobi;;;138577;Kenya
+item1.X-ABADR:sg
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
